@@ -1,9 +1,3 @@
-<%-- 
-    Document   : home
-    Created on : Jun 20, 2021, 4:31:28 PM
-    Author     : steven-sait <steven.l.tran@edu.sait.ca>
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

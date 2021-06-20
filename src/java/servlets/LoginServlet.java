@@ -11,7 +11,6 @@ import services.AccountService;
 import models.User;
 
 public class LoginServlet extends HttpServlet {
-
     private final AccountService ACCOUNT_SERVICE = new AccountService();
 
     private void displayMessage(HttpServletRequest request, HttpServletResponse response, String message) throws ServletException, IOException {
